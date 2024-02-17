@@ -1,0 +1,11 @@
+#root {
+
+  max-width: 1280px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: felx;
+  justify-content: center;
+}
